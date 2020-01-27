@@ -1,0 +1,2 @@
+export const END_POINT='http://customer_server.maharah.neumtech.net/api/Customers/homeData?access_token=6w9gKvM9bos9AEbiEvHOhmfWhtP8Yi0XWF2JJ9taXSFdaHFgoDJgRpWYXMjOYoey'
+export const IMAGE_END_POINT=  `http://file_server.maharah.neumtech.net/api/Storages/CategoryImages/download/`

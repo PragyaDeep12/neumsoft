@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="21px" viewBox="0 0 24 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>home_dis</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Test-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home_dis" transform="translate(0.000000, -2.000000)">
+            <rect id="Rectangle-7" fill="#D8D8D8" opacity="0" x="0" y="0" width="24" height="24"></rect>
+            <polygon id="Shape" fill="#C1C1C1" fill-rule="nonzero" points="9.6 22.4 9.6 15.2 14.4 15.2 14.4 22.4 20.4 22.4 20.4 12.8 24 12.8 12 2 0 12.8 3.6 12.8 3.6 22.4"></polygon>
+        </g>
+    </g>
+</svg>

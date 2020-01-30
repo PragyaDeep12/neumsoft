@@ -4,23 +4,22 @@ import PrivateRoute from "./PrivateRoute";
 import PublicRoute from "./PublicRoute";
 import LoginPage from "../LoginPage";
 import HomePage from "../HomePage";
+import VerifyCode from "../VerifyCode";
 
-export default class App extends  React.PureComponent{
+import RegisterAccount from "../RegisterAccount";
 
-    render(){
-        return (
-            <div>
-               
-               <Switch>
-                   <PrivateRoute path="/home" component={HomePage}>
+export default class App extends React.PureComponent {
+  render() {
+    return (
+      <div>
+        <Switch>
+          <PrivateRoute path="/home" component={HomePage} />
+          <PrivateRoute path="/verifyCode" component={VerifyCode} />
+          <PrivateRoute path="/registerAccount" component={RegisterAccount} />
 
-                   </PrivateRoute>
-                   <PublicRoute path="/" component={LoginPage}>
-
-                   </PublicRoute>
-               </Switch>
-            </div>
-        )
-    }
-
+          <PublicRoute path="/" component={LoginPage}></PublicRoute>
+        </Switch>
+      </div>
+    );
+  }
 }

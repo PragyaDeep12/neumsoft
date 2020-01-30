@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="17px" viewBox="0 0 16 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>backbutton</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Test-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="backbutton" fill="#FFFFFF">
+            <g id="Group-4-Copy" fill-rule="nonzero">
+                <g id="Group-2">
+                    <path d="M4.19061101,7.13607036 L9.52734865,1.99320591 C9.93934873,1.59617299 9.951482,0.940322158 9.55444908,0.528322083 C9.54558348,0.519122274 9.53654846,0.510087252 9.52734865,0.501221654 L9.52734865,0.501221654 C9.09526222,0.0848320747 8.41120674,0.0848320747 7.9791203,0.501221654 L0,8.19047619 L7.9791203,15.8797307 C8.41120674,16.2961203 9.09526222,16.2961203 9.52734865,15.8797307 L9.52734865,15.8797307 C9.93934873,15.4826978 9.951482,14.826847 9.55444908,14.4148469 C9.54558348,14.4056471 9.53654846,14.3966121 9.52734865,14.3877465 L4.19061101,9.24488202 L3.1304809,8.19047619 L4.19061101,7.13607036 Z" id="Shape"></path>
+                </g>
+            </g>
+            <rect id="Rectangle-10" x="2.66666667" y="6.85714286" width="13.3333333" height="2.66666667" rx="1.33333333"></rect>
+        </g>
+    </g>
+</svg>

@@ -15,7 +15,7 @@ class PageLayout extends React.PureComponent{
     render () {
         return (
             <div>
-                {this.getHeader()}
+                {/* {this.getHeader()} */}
                 <div>
                     {this.props.children}
                 </div>

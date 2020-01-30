@@ -18,11 +18,11 @@ export default class CategoryList extends Component {
     render() {
         return (
            <>
-            <div className="columns">
+            <div className="grid-container">
             {
                 this.state.catagories.map((elem,key)=>{
                 return ( 
-                    <div className="column">
+                    <div className="grid-item">
                     <Category category={elem} key={key}/>
                     </div>
                     )   

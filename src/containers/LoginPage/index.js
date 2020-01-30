@@ -20,7 +20,7 @@ class LoginPage extends React.PureComponent{
                         if(this.state.contactNumber&& this.state.contactNumber.trim())
                         {
                             localStorage.setItem("maharaToken",this.state.contactNumber);
-                            window.location.href="/home";
+                            window.location.href="/verifyCode";
                         }
                     }
                 }
